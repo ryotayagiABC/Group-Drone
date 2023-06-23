@@ -1,3 +1,4 @@
+// This code is to check the address of MLX90614
 #include <Wire.h>
 #include <SparkFunMLX90614.h>
 
